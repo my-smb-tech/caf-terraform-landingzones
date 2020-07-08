@@ -1,5 +1,5 @@
-# Configuration sample for a hub and spoke environment
-# definition of variables for the virtual network
+?
+"# definition of variables for the virtual network
 rg_network = {
   CORE-NET = {
     name = "network-core"
